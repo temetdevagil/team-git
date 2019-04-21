@@ -8,7 +8,7 @@ Estaremos usando o git flow em nossos futuros projetos, e para isso nosso time p
 
 Com este repositório, testaremos comandos e funcionalidades da ferramenta e com isso aprender a usar em um projeto 'real-world'
 
-#### OBS:
+#### _OBS_:
 
 1. Developers podem criar features:  
    `$ git flow feature start feature/nome-da-feature`
