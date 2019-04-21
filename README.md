@@ -16,7 +16,6 @@ Com este repositório, testaremos comandos e funcionalidades da ferramenta e com
 2. Developers podem publicar features:
    `$ git flow feature publish feature/nome-da-feature`
 
-
 3. Code reviewers porem fazer code review e autorizar merges
-=======
 
+4. Somente adms podem permitir merges
