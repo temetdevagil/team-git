@@ -12,3 +12,6 @@ Com este repositório, testaremos comandos e funcionalidades da ferramenta e com
 
 1. Developers podem criar features:  
    `$ git flow feature start feature/nome-da-feature`
+
+2. Developers podem publicar features:
+   `$ git flow feature publish feature/nome-da-feature`
