@@ -38,3 +38,5 @@ Com este repositório, testaremos comandos e funcionalidades da ferramenta e com
 
 8. Upar a branch _develop_ para o github (Push)
    (O github automaticamente vai macar a pull request como _closed/merged_ quando finalizada)
+
+teste
