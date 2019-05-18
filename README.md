@@ -41,3 +41,7 @@ Com este repositório, testaremos comandos e funcionalidades da ferramenta e com
 6. Com a aprovação da `pull request` (merge), acessar a branch local **develop** (`$git checkout develop`) e dar `$git pull`
 
 7. Voltar para a branch da feature (`$git checkout feature/nome-da-feature`) e a finalizar com: `$git flow feature finish feature/nome-da-feature`
+
+---
+
+Test
